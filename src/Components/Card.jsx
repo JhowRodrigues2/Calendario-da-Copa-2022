@@ -1,6 +1,5 @@
 import React from "react";
-import { useState } from "react";
-import { useEffect } from "react";
+
 const Card = ({ date, day, children }) => {
   return (
     <div className="card">
