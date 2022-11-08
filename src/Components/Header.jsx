@@ -33,11 +33,8 @@ const Header = () => {
           <Link to={"/semi"} className="link">
             Semi
           </Link>
-          <Link to={"/terceirolugar"} className="link">
-            3º Lugar
-          </Link>
           <Link to={"/final"} className="link">
-            Grande Final
+            Finais
           </Link>
         </ul>
       </div>
