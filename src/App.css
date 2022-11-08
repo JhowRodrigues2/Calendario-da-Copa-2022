@@ -129,7 +129,14 @@ span {
 .card ul li img {
   transition: transform 0.3s;
 }
-
+.teamName {
+  margin-top: 5px;
+  padding-left: 8px;
+  padding-right: 10px;
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
 @media (min-width: 700px) {
   .cards {
     max-width: 670px;
