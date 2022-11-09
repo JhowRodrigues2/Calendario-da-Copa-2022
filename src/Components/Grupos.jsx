@@ -289,7 +289,7 @@ const Grupos = () => {
         />
         <Game
           player1={Netherlands}
-          player2={"Qatar"}
+          player2={Qatar}
           hour={"12:00"}
           teamName1={"HOL"}
           teamName2={"CAT"}
@@ -372,7 +372,7 @@ const Grupos = () => {
       <Card date={"02/12"} day={"Sexta"}>
         <Game
           player1={SouthKorea}
-          player2={"Portugal"}
+          player2={Portugal}
           hour={"12:00"}
           teamName1={"COR"}
           teamName2={"POR"}
