@@ -28,7 +28,7 @@ import Poland from "/src/assets/Poland.svg";
 import Portugal from "/src/assets/Portugal.svg";
 import SaudiArabia from "/src/assets/Saudi-Arabia.svg";
 import Serbia from "/src/assets/Serbia.svg";
-import SouthKorea from "/src/assets/South-Korea.svg";
+import SouthKorea from "/src/assets/South-korea.svg";
 import Spain from "/src/assets/Spain.svg";
 import Switzerland from "/src/assets/Switzerland.svg";
 import Tunisia from "/src/assets/Tunisia.svg";
