@@ -13,13 +13,12 @@ import Senegal from "/src/assets/Senegal.svg";
 import Japan from "/src/assets/Japan.svg";
 import Croatia from "/src/assets/Netherlands.svg";
 import Brazil from "/src/assets/Brazil.svg";
-import SouthKorea from "/src/assets/South-Korea.svg";
+import SouthKorea from "/src/assets/South-korea.svg";
 import Morocco from "/src/assets/Morocco.svg";
 import Spain from "/src/assets/Spain.svg";
 import Portugal from "/src/assets/Portugal.svg";
 import Switzerland from "/src/assets/Switzerland.svg";
 
-//Rounded 16
 const Oitavas = () => {
   return (
     <div>
