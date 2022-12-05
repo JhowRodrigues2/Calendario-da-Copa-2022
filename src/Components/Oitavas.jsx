@@ -19,6 +19,7 @@ import Spain from "/src/assets/Spain.svg";
 import Portugal from "/src/assets/Portugal.svg";
 import Switzerland from "/src/assets/Switzerland.svg";
 
+//Rounded 16
 const Oitavas = () => {
   return (
     <div>
