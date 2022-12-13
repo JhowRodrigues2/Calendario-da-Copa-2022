@@ -3,7 +3,7 @@ import { Helmet } from "react-helmet";
 import Card from "./Card";
 import Game from "./Game";
 import Argentina from "/src/assets/Argentina.svg";
-import Croatia from "/src/assets/Netherlands.svg";
+import Croatia from "/src/assets/Croatia.svg";
 import Morocco from "/src/assets/Morocco.svg";
 import France from "/src/assets/France.svg";
 

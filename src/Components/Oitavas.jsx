@@ -11,7 +11,7 @@ import Poland from "/src/assets/Poland.svg";
 import England from "/src/assets/England.svg";
 import Senegal from "/src/assets/Senegal.svg";
 import Japan from "/src/assets/Japan.svg";
-import Croatia from "/src/assets/Netherlands.svg";
+import Croatia from "/src/assets/Croatia.svg";
 import Brazil from "/src/assets/Brazil.svg";
 import SouthKorea from "/src/assets/South-korea.svg";
 import Morocco from "/src/assets/Morocco.svg";
